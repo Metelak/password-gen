@@ -1,7 +1,8 @@
 // Assignment code here
 
-// Get references to the #generate element
+// Get references to the #generate and # password element
 var generateBtn = document.querySelector("#generate");
+var passwordText = document.querySelector("#password");
 
 // Array for lowercase alphabet
 var lowerCase = ["a","b","c","d","e","f","g","h","i","j","k","l","m","n","o","p","q","r","s","t","u","v","w","x","y","z"]
